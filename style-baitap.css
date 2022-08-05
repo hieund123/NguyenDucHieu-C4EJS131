@@ -1,0 +1,70 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: aliceblue;
+  font-size: 40px;
+  margin: 0px 0 20px 0;
+}
+
+#c4e {
+  display: inline-block;
+  background-color: rebeccapurple;
+  padding: 25px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-left: 550px;
+}
+
+h2 {
+  margin-top: 140px;
+  font-size: 28px;
+  padding-left: 550px;
+}
+
+.themvaogio {
+  text-decoration: none;
+  background-color: rebeccapurple;
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.products {
+  border: 1px solid #c9c9c9;
+  border-radius: 4px;
+  padding: 20px;
+  width: 40%;
+  margin: auto;
+}
+
+img {
+    border-radius: 4px;
+    width: 100%;
+}
+
+i{
+    background-color: #eddbff;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+hr{
+    height: 1px;
+    width: 100%;
+    background-color: rebeccapurple;
+}
+
+.p1
+{
+    color: #757575;
+}
+
+.p2
+{
+    padding-left: 550px;
+}

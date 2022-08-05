@@ -1,0 +1,37 @@
+h1 {
+  color: brown;
+}
+
+p{
+    color: aqua;
+}
+
+#p1{
+    color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+/* tất cả phần tử */
+*{
+
+}
+
+heading1{
+    display: none;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid green;
+    width: 100px;
+    height: 100px;
+}
+
+#span1 {
+    display: block;
+}
