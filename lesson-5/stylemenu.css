@@ -1,6 +1,6 @@
 * {
     font-family: 'Times New Roman', Times, serif;
-    color: aliceblue;
+    /* color: aliceblue; */
     text-decoration: none;
    
 }
@@ -18,4 +18,8 @@ div {
 }
 .box:hover {
     background-color: #1565C0;
+}
+
+a {
+    color: aliceblue;
 }
