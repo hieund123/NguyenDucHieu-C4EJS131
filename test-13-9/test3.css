@@ -32,7 +32,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding-top: 0;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 nav ul {
@@ -61,8 +61,16 @@ h1 h3 {
   font-family: "merriwearther";
 }
 
+h3 {
+    margin-bottom: 0;
+}
+
 h4 {
     font-family: 'Poppins';
+}
+
+h5 {
+    margin-top: 10px;
 }
 
 p {
@@ -83,14 +91,14 @@ a {
   display: flex;
   justify-content: flex-start;
   flex-direction: row;
-  gap: 100px;
+  gap: 70px;
 }
 
 .row2 {
   display: flex;
   justify-content: flex-start;
   flex-direction: row;
-  gap: 100px;
+  gap: 70px;
 }
 
 .lelah {
