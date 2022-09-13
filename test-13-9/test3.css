@@ -1,0 +1,167 @@
+.container {
+  width: 1125px;
+  height: 840px;
+  margin: auto;
+
+  background-color: #b6bdd4;
+  padding: 120px 135px;
+}
+.smallcontainer {
+  background-color: aliceblue;
+  width: 970px;
+  height: 600px;
+  padding: 70px;
+  border-radius: 5px;
+}
+
+.search-icon {
+  display: inline-block;
+  width: 20px;
+  height: auto;
+}
+
+input {
+  margin-left: 15px;
+  background-color: aliceblue;
+  border: none;
+  height: 30px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0;
+  padding-bottom: 30px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #151b32;
+  padding: 15px;
+  
+  border-radius: 3px;
+}
+
+nav ul li a:hover{
+    color: #fff;
+    background-color: plum;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+h1 h3 {
+  font-family: "merriwearther";
+}
+
+h4 {
+    font-family: 'Poppins';
+}
+
+p {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0px 5px;
+    display: inline-block;
+    color: #516FD4;
+    border-radius: 10px;
+    border: 0.5px solid #516FD4;
+}
+
+a {
+    font-family: 'Poppins';
+}
+
+.row1 {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 100px;
+}
+
+.row2 {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 100px;
+}
+
+.lelah {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+.jesus {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+.annie {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+.robert {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+.amy {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+.anthony {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+
+
+img {
+  padding-right: 20px;
+  height: 100px;
+}
